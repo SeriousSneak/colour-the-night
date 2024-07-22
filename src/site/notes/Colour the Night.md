@@ -12,6 +12,4 @@ Welcome to Colour the Night Light Show!! 2023 was my first year putting a light 
 ## Christmas
 Our Christmas show will start December 1. 
 
-# Pick the song
-
 
