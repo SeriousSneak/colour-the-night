@@ -8,8 +8,8 @@ Welcome to Colour the Night Light Show!! 2023 was my first year putting a light 
 
 # 2024 Show Hours
 ## Halloween
-
+---
 ## Christmas
-Our Christmas show will start December 1. 
+Our Christmas show will start December 1.
 
 
