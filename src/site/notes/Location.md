@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/location/"}
+{"dg-publish":true,"permalink":"/location/","noteIcon":"2"}
 ---
 
 # Location
